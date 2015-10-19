@@ -24,8 +24,6 @@ class JHL_Widget_Headline extends WP_Widget {
 			'tag' => 'h3',
 		), $instance);
 
-		$post = get_post($instance['post_id']);
-
 		// print start widget
 		echo $args['before_widget'];
 		

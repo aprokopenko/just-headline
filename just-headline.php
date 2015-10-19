@@ -2,7 +2,10 @@
 /*
 Plugin Name: Just Headline
 Description: Widget to easy add single html heading tag
-Version: 1
+Tags: heading tag, heading, widget
+Version: 1.0
+Author: Alexander Prokopenko 
+Author URI: http://justcoded.com/
 */
 
 define('JHL_PATH', dirname(__FILE__));
